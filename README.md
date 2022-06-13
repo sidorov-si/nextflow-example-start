@@ -1,6 +1,5 @@
 # nextflow-example
-A minimal Nextflow project compatible with nf-core
-(Adapted from https://github.com/marc-jones/nextflow-example)
+A minimal Nextflow project compatible with nf-core (adapted from https://github.com/marc-jones/nextflow-example).
 
 Run this example pipeline with:
 
